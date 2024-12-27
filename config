@@ -1,0 +1,34 @@
+# NOTE:
+# See all docs: ghostty +show-config --default --docs | nvim
+# examples:
+# https://github.com/search?q=path%3Aghostty%2Fconfig&type=code
+
+# themes: ghostty +list-themes
+theme = dark:Raycast_Dark,light:Raycast_Light
+# theme = dark:Spacedust,light:Raycast_Light
+# theme = dark:FireWatch,light:Raycast_Light
+
+# fonts: ghostty +list-fonts
+font-size = 18
+window-inherit-font-size = false
+font-family = "VictorMono NFM SemiBold"
+font-family-italic = "VictorMono NFM Italic"
+font-family-bold-italic = "VictorMono NFM SemiBold Italic"
+font-thicken = true
+
+# display settings
+macos-titlebar-style = hidden
+macos-non-native-fullscreen = true
+mouse-hide-while-typing = true
+window-padding-x = 2
+window-colorspace = display-p3
+
+# transparency
+background-opacity = 0.8
+background-blur-radius = 20
+
+# general settings
+copy-on-select = true
+
+# quick terminal
+quick-terminal-position = left
