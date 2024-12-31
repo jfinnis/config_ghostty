@@ -10,9 +10,9 @@ theme = dark:Raycast_Dark,light:Raycast_Light
 # fonts: ghostty +list-fonts
 font-size = 18
 window-inherit-font-size = false
-font-family = "VictorMono Nerd Font Propo"
-font-family-italic = "VictorMono Nerd Font Propo Italic"
-font-family-bold-italic = "VictorMono Nerd Font Propo SemiBold Italic"
+font-family = "VictorMono Nerd Font"
+font-family-italic = "VictorMono Nerd Font"
+font-family-bold-italic = "VictorMono Nerd Font"
 font-thicken = true
 
 # display settingsj
