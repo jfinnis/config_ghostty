@@ -15,7 +15,7 @@ font-family-italic = "VictorMono Nerd Font"
 font-family-bold-italic = "VictorMono Nerd Font"
 font-thicken = true
 
-# display settingsj
+# display settings
 macos-titlebar-style = hidden
 macos-non-native-fullscreen = true
 mouse-hide-while-typing = true
