@@ -4,7 +4,7 @@
 # https://github.com/search?q=path%3Aghostty%2Fconfig&type=code
 
 # themes: ghostty +list-themes
-theme = dark:Raycast_Dark,light:Raycast_Light
+theme = dark:Raycast Dark,light:Raycast Light
 # theme = dark:FireWatch,light:Raycast_Light
 
 # fonts: ghostty +list-fonts
