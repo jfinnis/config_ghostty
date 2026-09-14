@@ -33,3 +33,6 @@ quick-terminal-position = left
 
 # open tmux initially by attaching to session if it exists or creating new session
 command = zsh --login -c "if command -v tmux >/dev/null 2>&1; then tmux attach || tmux; else zsh; fi"
+
+# bind shift+space to just space - too many mistypings
+keybind = shift+space=text:\x20
